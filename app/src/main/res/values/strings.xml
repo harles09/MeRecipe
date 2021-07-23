@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">MeRecipe</string>
+    <string name="image_deskripsi">Image Deskripsi</string>
+    <string name="title">title</string>
+    <string name="bahan">Bahan</string>
+    <string name="recipe_title">Recipe Title</string>
+    <string name="bahan_bahan">Bahan-Bahan</string>
+    <string name="langkah_langkah">Langkah-Langkah</string>
+    <string name="textview">TextView</string>
+    <string name="play_video">Play VIdeo</string>
+    <string name="logo">Logo</string>
+</resources>

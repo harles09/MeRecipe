@@ -1,0 +1,94 @@
+{
+  "result": [
+    {
+      "tvShowId": "MVP01",
+      "tvShowTitle": "Game of Thrones",
+      "tvShowGenre": "Action, Advanture, Drama",
+      "tvShowPG": "TV-MA",
+      "tvShowPicture": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/15936b71-179b-4f43-8885-9273636d3f48/dbjnj0m-314c8875-d698-415f-b466-32bc94e259a5.jpg/v1/fill/w_1024,h_1561,q_75,strp/game_of_thrones___fanart_poster_by_uebelator-dbjnj0m.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwic3ViIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl0sIm9iaiI6W1t7InBhdGgiOiIvZi8xNTkzNmI3MS0xNzliLTRmNDMtODg4NS05MjczNjM2ZDNmNDgvZGJqbmowbS0zMTRjODg3NS1kNjk4LTQxNWYtYjQ2Ni0zMmJjOTRlMjU5YTUuanBnIiwid2lkdGgiOiI8PTEwMjQiLCJoZWlnaHQiOiI8PTE1NjEifV1dfQ.WM7RQHWGQRWMcd44sOXFgWjiDiIZuLfmM9Z3yPIBsQM",
+      "tvShowDesc": "Nine noble families fight for control over the lands of Westeros, while an ancient enemy returns after being dormant for millennia.",
+      "releaseDate": "TV Series (2011-2019)",
+      "tvShowRating": "9.5"
+    },
+    {
+      "tvShowId": "TFWS1",
+      "tvShowTitle": "The Falcon and the Winter Soldier",
+      "tvShowGenre": "Action, Advanture, Drama",
+      "tvShowPG": "TV-14",
+      "tvShowPicture": "https://media.comicbook.com/2020/12/marvel-falcon-and-the-winter-soldier-poster-2021-1248503.jpeg?auto=webp&width=800&height=1185&crop=800:1185,smart",
+      "tvShowDesc": "Following the events of 'Avengers: Endgame,' Sam Wilson/Falcon and Bucky Barnes/Winter Soldier team up in a global adventure that tests their abilities -- and their patience.",
+      "releaseDate": "Tv Mini-Series (2021)",
+      "tvShowRating": "8.0"
+    },
+    {
+      "tvShowId": "TQG01",
+      "tvShowTitle": "The Queen's Gambit",
+      "tvShowGenre": "Drama",
+      "tvShowPG": "TV-MA",
+      "tvShowPicture": "https://tomandlorenzo.com/wp-content/uploads/2020/09/The-Queens-Gambit-Anya-Taylor-Joy-Netflix-Poster-Official-Trailer-TV-Previews-Tom-Lorenzo-Site-2.jpg",
+      "tvShowDesc": "Orphaned at the tender age of nine, prodigious introvert Beth Harmon discovers and masters the game of chess in 1960s USA. But child stardom comes at a price.",
+      "releaseDate": "Tv Mini-Series (2020)",
+      "tvShowRating": "8.6"
+    },
+    {
+      "tvShowId": "AIB01",
+      "tvShowTitle": "Alice in Borderland",
+      "tvShowGenre": "Action, Fatasy, Mystery",
+      "tvShowPG": "TV-MA",
+      "tvShowPicture": "https://img.reelgood.com/content/show/9ad7482c-ee09-4d6e-bc0f-c54a16686b00/poster-780.jpg",
+      "tvShowDesc": "A group of bored delinquents are transported to a parallel wasteland as part of a survival game.",
+      "releaseDate": "Tv Series (2020)",
+      "tvShowRating": "8.0"
+    },
+    {
+      "tvShowId": "KRV01",
+      "tvShowTitle": "Vincenzo",
+      "tvShowGenre": "Comedy, Crime, Romance",
+      "tvShowPG": "Not Rated",
+      "tvShowPicture": "https://image.kpopmap.com/2021/01/vincenzo-individul-posters-tvn-2021-kdrama-3.jpg",
+      "tvShowDesc": "During a visit to his motherland, a Korean-Italian mafia lawyer gives an unrivaled conglomerate a taste of its own medicine with a side of justice.",
+      "releaseDate": "Tv Series (2021)",
+      "tvShowRating": "8.5"
+    },
+    {
+      "tvShowId": "TGD01",
+      "tvShowTitle": "The Good Doctor",
+      "tvShowGenre": "Drama",
+      "tvShowPG": "TV-14",
+      "tvShowPicture": "https://fanart.tv/fanart/tv/328634/tvposter/the-good-doctor-5b7cda3a9830c.jpg",
+      "tvShowDesc": "Shaun Murphy, a young surgeon with autism and Savant syndrome, is recruited into the surgical unit of a prestigious hospital.",
+      "releaseDate": "Tv Series (2017)",
+      "tvShowRating": "8.5"
+    },
+    {
+      "tvShowId": "TGD05",
+      "tvShowTitle": "The Umbrella Academy",
+      "tvShowGenre": "Action, Advanture, Comedy",
+      "tvShowPG": "TV-14",
+      "tvShowPicture": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2018/12/umbrella-academy-poster.jpg",
+      "tvShowDesc": "A family of former child heroes, now grown apart, must reunite to continue to protect the world.",
+      "releaseDate": "Tv Series (2019)",
+      "tvShowRating": "8.0"
+    },
+    {
+      "tvShowId": "TGD99",
+      "tvShowTitle": "The King's Avatar",
+      "tvShowGenre": "Action, Advanture, Fantasy",
+      "tvShowPG": "Not Rated",
+      "tvShowPicture": "https://popcornusa.s3.amazonaws.com/movies/650/2483-21602-TheKingsjpg",
+      "tvShowDesc": "Ye Xiu (Yang Yang) is a well known top tier player in an online game Glory. After forcefully expelled out of his professional team, he was employed in an Internet Cafe as an odd-job worker.",
+      "releaseDate": "Tv Series (2019)",
+      "tvShowRating": "8.3"
+    },
+    {
+      "tvShowId": "TGD11",
+      "tvShowTitle": "Start-Up",
+      "tvShowGenre": "Comedy, Drama, Romance",
+      "tvShowPG": "TV-14",
+      "tvShowPicture": "https://image.kpopmap.com/2019/11/start-up-drama-poster.jpg",
+      "tvShowDesc": "Young entrepreneurs aspiring to launch virtual dreams into reality compete for success and love in the cutthroat world of Korea's high-tech industry.",
+      "releaseDate": "Tv Series (2020)",
+      "tvShowRating": "8.1"
+    }
+  ]
+}

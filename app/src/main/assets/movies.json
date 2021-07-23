@@ -1,0 +1,104 @@
+{
+  "result": [
+    {
+      "movieId" : "GK01",
+      "movieTitle": "Godzilla vs. Kong",
+      "movieGenre": "Action, Sci-fi,Thriller",
+      "moviePG":"PG-13",
+      "moviePicture":"https://2.bp.blogspot.com/--H7rlgYSAcY/XtXGoF6GNRI/AAAAAAAAF9g/fyVt7oz0zHEHHCSkbiuSwLpQdeBk1dUhACK4BGAYYCw/s1600/Godzilla-VS-Kong-Poster-BY-AndrewVM-2020-GVK42020.png",
+      "movieDesc" : "The epic next chapter in the cinematic Monsterverse pits two of the greatest icons in motion picture history against one another - the fearsome Godzilla and the mighty Kong - with humanity caught in the balance.",
+      "releaseDate":"31 March 2021",
+      "movieRating" :"6.5"
+    },
+    {
+      "movieId" : "IM01",
+      "movieTitle": "Iron Man",
+      "movieGenre": "Action, Advanture, Sci-fi",
+      "moviePG":"PG-13",
+      "moviePicture":"https://fanart.tv/fanart/movies/1726/movieposter/iron-man-521da627ecf87.jpg",
+      "movieDesc" : "After being held captive in an Afghan cave, billionaire engineer Tony Stark creates a unique weaponized suit of armor to fight evil.",
+      "releaseDate":"2 May 2008",
+      "movieRating" :"8.0"
+    },
+    {
+      "movieId" : "Ain1",
+      "movieTitle": "Avengers: Infinity War",
+      "movieGenre": "Action, Advanture, Sci-fi",
+      "moviePG":"PG-13",
+      "moviePicture":"http://www.blackfilm.com/read/wp-content/uploads/2018/03/Avengers-Infinity-War-new-poster.jpg",
+      "movieDesc" : "The Avengers and their allies must be willing to sacrifice all in an attempt to defeat the powerful Thanos before his blitz of devastation and ruin puts an end to the universe.",
+      "releaseDate":"27 April 2018",
+      "movieRating" :"8.4"
+    },
+    {
+      "movieId" : "SM01",
+      "movieTitle": "Spider-Man: Homecoming",
+      "movieGenre": "Action, Advanture, Sci-fi",
+      "moviePG":"PG-13",
+      "moviePicture":"http://ifanboy.com/wp-content/uploads/2017/07/Spider-Man-Homecoming_Poster.jpg",
+      "movieDesc" : "Peter Parker balances his life as an ordinary high school student in Queens with his superhero alter-ego Spider-Man, and finds himself on the trail of a new menace prowling the skies of New York City.",
+      "releaseDate":"7 July 2017",
+      "movieRating" :"7.4"
+    },
+    {
+      "movieId" : "TA14",
+      "movieTitle": "The Avengers",
+      "movieGenre": "Action, Advanture, Sci-fi",
+      "moviePG":"PG-13",
+      "moviePicture":"https://www.themoviedb.org/t/p/w600_and_h900_bestv2/RYMX2wcKCBAr24UyPD7xwmjaTn.jpg",
+      "movieDesc" : "Earth's mightiest heroes must come together and learn to fight as a team if they are going to stop the mischievous Loki and his alien army from enslaving humanity.",
+      "releaseDate":"4 May 2012",
+      "movieRating" :"8.0"
+    },
+    {
+      "movieId" : "TA72",
+      "movieTitle": "Mortal Kombat",
+      "movieGenre": "Action, Advanture, Fantasy",
+      "moviePG":"R",
+      "moviePicture":"https://cdn.flickeringmyth.com/wp-content/uploads/2021/02/mortal-kombat-movie-poster.jpg",
+      "movieDesc" : "MMA fighter Cole Young seeks out Earth's greatest champions in order to stand against the enemies of Outworld in a high stakes battle for the universe.",
+      "releaseDate":"23 April 2021",
+      "movieRating" :"7.1"
+    },
+    {
+      "movieId" : "TA66",
+      "movieTitle": "Doctor Strange",
+      "movieGenre": "Action, Advanture, Fantasy",
+      "moviePG":"PG-13",
+      "moviePicture":"https://www.themoviedb.org/t/p/w600_and_h900_bestv2/xf8PbyQcR5ucXErmZNzdKR0s8ya.jpg",
+      "movieDesc" : "While on a journey of physical and spiritual healing, a brilliant neurosurgeon is drawn into the world of the mystic arts.",
+      "releaseDate":"4 November 2016",
+      "movieRating" :"7.5"
+    },
+    {
+      "movieId" : "TA01",
+      "movieTitle": "Zack Snyder's Justice League",
+      "movieGenre": "Action, Advanture, Fantasy",
+      "moviePG":"R",
+      "moviePicture":"https://fanart.tv/fanart/movies/706585/movieposter/zack-snyders-justice-league-5ee0213d5db69.jpg",
+      "movieDesc" :"Determined to ensure Superman's ultimate sacrifice was not in vain, Bruce Wayne aligns forces with Diana Prince with plans to recruit a team of metahumans to protect the world from an approaching threat of catastrophic proportions." ,
+      "releaseDate":"18 March 2021",
+      "movieRating" :"8.2"
+    },
+    {
+      "movieId" : "TA03",
+      "movieTitle": "Joker",
+      "movieGenre": "Crime, Drama, Thriller",
+      "moviePG":"R",
+      "moviePicture":"https://www.themoviedb.org/t/p/w600_and_h900_bestv2/udDclJoHjfjb8Ekgsd4FDteOkCU.jpg",
+      "movieDesc" :"In Gotham City, mentally troubled comedian Arthur Fleck is disregarded and mistreated by society. He then embarks on a downward spiral of revolution and bloody crime. This path brings him face-to-face with his alter-ego: the Joker." ,
+      "releaseDate":"4 October 2019",
+      "movieRating" :"8.5"
+    },
+    {
+      "movieId" : "TA05",
+      "movieTitle": "Ant-Man",
+      "movieGenre": "Action, Advanture, Comedy",
+      "moviePG":"PG-13",
+      "moviePicture":"https://static0.colliderimages.com/wordpress/wp-content/uploads/2015/05/ant-man-poster-1.jpg",
+      "movieDesc" :"Armed with a super-suit with the astonishing ability to shrink in scale but increase in strength, cat burglar Scott Lang must embrace his inner hero and help his mentor, Dr. Hank Pym, plan and pull off a heist that will save the world." ,
+      "releaseDate":"17 July 2015",
+      "movieRating" :"7.3"
+    }
+  ]
+}
