@@ -1,5 +1,5 @@
 package com.example.submissiononejetpack.model
-
+//data recipe
 object RecipeData {
     fun generateRecipeData(): List<RecipeModel> {
 

@@ -13,6 +13,7 @@ class SplashActivity : AppCompatActivity() {
         setContentView(R.layout.activity_splash)
         val image: ImageView = findViewById(R.id.img_photo)
 
+        //digunakan untuk menganimasi image dan durasi dari image tersebut
         image.alpha = 0f
         image.animate().setDuration(1500).alpha(1f).withEndAction{
             val i = Intent(this, DashboardActivity::class.java)

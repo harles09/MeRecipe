@@ -1,5 +1,5 @@
 package com.example.submissiononejetpack.model
-
+//data class atau table recipe digunakan untuk menginisiasi data atau memegang data.
 data class RecipeModel (
     var recipeId:String,
     var recipeTitle:String,
