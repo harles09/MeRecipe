@@ -45,6 +45,7 @@ class RecipeActivity : AppCompatActivity() {
         Glide.with(this)
             .load(recipeModel.recipeImage)
             .transform(RoundedCorners(20))
+            .override(300,300)
             .into(binding.imagePoster)
         //jika button di klik akan memanggil aplikasi lain dan membuka link video
         binding.btVideo.setOnClickListener {

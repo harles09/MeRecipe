@@ -51,6 +51,7 @@ class DashboardAdapter:RecyclerView.Adapter<DashboardAdapter.ListViewHolder>() {
                 //menggunakan library image untuk memasukkan gambar
                 Glide.with(itemView.context)
                     .load(recipe.recipeImage)
+                    .override(300,300)
                     .into(ivItemImage)
                 //ketika salah satu data ke klik maka buka activity baru dan kirim EXTRA_Data bersamaan
                 itemView.setOnClickListener {
